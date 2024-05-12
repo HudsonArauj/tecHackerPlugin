@@ -1,4 +1,6 @@
-Monitor de Privacidade do Navegador
+# **ExtensionHackers**
+    
+# Monitor de Privacidade do Navegador
 Este é uma extensão de navegador para fornecer aos usuários informações sobre a privacidade durante a navegação na web. 
 
 # Funcionalidades
