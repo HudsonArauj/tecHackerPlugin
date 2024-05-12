@@ -1,0 +1,58 @@
+.loading {
+  color: #1d1d1d;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Adicionando sombra */
+  border-radius: 2px;
+  padding: 10px;
+
+}
+
+#privacy-score {
+  font-weight: bold;
+}
+
+.detected {
+  color: red;
+}
+
+.not-detected {
+  color: green;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  background-color: #ffffff; /* Cor de fundo branca */
+  color: #333333; /* Cor do texto principal */
+  line-height: 1.6; /* Altura da linha */
+}
+
+p:hover {
+  text-decoration: underline; /* Adicionar sublinhado ao passar o mouse */
+}
+
+/* Estilos para cabeçalhos */
+h1, h2, h3 {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Adicionando sombra */
+
+  margin-bottom: 20px; /* Margem inferior */
+}
+
+/* Estilo para imagem */
+img {
+  width: 30px; /* Imagens responsivas */
+  height: 5%;
+  margin-left: 4rem;
+  margin-top: 0.5rem;
+}
+
+/* Estilos para parágrafos */
+p {
+  margin-bottom: 15px; /* Margem inferior */
+}
+
+/* Estilos para o rodapé */
+footer {
+  margin-top: 50px; /* Margem superior */
+  text-align: center; /* Alinhar ao centro */
+  color: #888888; /* Cor do texto do rodapé */
+}

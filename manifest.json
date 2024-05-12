@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "ExtensionHackers",
+    "version": "1.0",
+  
+    "applications": {
+      "gecko": {
+        "id": "ExtensionHackers@mozilla.org"
+      }
+    },
+  
+    "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "cookies",
+    "activeTab",
+    "tabs",
+    "storage",
+    "<all_urls>" 
+  ],
+    "browser_action": {
+      "default_icon": "icon/hacker.png",
+      "default_title": "Hackers",
+      "default_popup": "popup/popup.html"
+    },
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+  
