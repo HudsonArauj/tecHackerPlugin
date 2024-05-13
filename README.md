@@ -21,6 +21,6 @@ O popup exibe várias métricas relacionadas à privacidade do usuário, incluin
 - Abra o navegador Firefox.
 - Navegue até about:debugging#/runtime/this-firefox.
 - Clique em "Carregar temporariamente uma extensão...".
-- Selecione a pasta "ExtensionHackers".
+- Selecione a manifest.json.
 
 A extensão deve ser carregada e seu ícone aparecerá na barra de ferramentas do navegador.
