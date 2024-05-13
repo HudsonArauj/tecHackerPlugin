@@ -5,7 +5,7 @@ Este é uma extensão de navegador para fornecer aos usuários informações sob
 
 # Funcionalidades
 Exibição de Dados de Privacidade
-O componente HTML exibe várias métricas relacionadas à privacidade do usuário, incluindo:
+O popup exibe várias métricas relacionadas à privacidade do usuário, incluindo:
 
 - Teceira Parte Requests: O número de solicitações de recursos de terceiros feitas pela página.
 - Primeira Parte Cookies: O número de cookies definidos pela página visitada.
